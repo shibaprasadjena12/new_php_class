@@ -33,7 +33,7 @@
         }
     ?>
     <center>
-        <h1>My Login Page</h1>
+        <h1>Chiku Login Page</h1>
         <form action = "" method = "post">
             <input type = "text" name = "username" placeholder = "Enter Username"> <br> <br>
             <input type = "password" name = "pwd" placeholder = "Enter Password"> <br> <br>
